@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.header{
+    height: 100vh;
+}
+.bg{
+    /* The image used */
+    background-image: url("../img/bg-img.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-nav a{
+   font-weight: bold;
+   letter-spacing: 10px;
+}
+
+.jumbotron{
+    background: none!important;
+    color:yellow;
+}
