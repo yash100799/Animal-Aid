@@ -43,7 +43,7 @@
       
       
     </ul>
-    <a class="btn btn-primary" href="checkout.php" role="button">Donate Now</a>
+    <a class="btn btn-primary" href="payscript.php" role="button">Donate Now</a>
   </div>
 </nav>
                 <div class="jumbotron jumbotron-fluid text-center">
